@@ -22,4 +22,5 @@ public class Main {
             return ((Apple) var1).getPrice() - ((Apple) var2).getPrice();
         }
     }
+    //ура
 }
